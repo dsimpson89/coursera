@@ -4,8 +4,8 @@ box-sizing: border-box;
 margin:0px;
 }
 
-.walkme-panel {
-display:none !important;
+#walkme-player.walkme-panel{
+    display: none !important;
 }
 
 h1{
