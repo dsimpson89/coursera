@@ -69,6 +69,19 @@ p{
 	margin-left: auto;
 }
 
+button{
+	position: fixed;
+	top: -4px;
+	right: 10px;
+	background-color: blue;
+	margin: 0px;
+	width: 100px;
+	border-radius: 2px;
+	font-size: 20px;
+	color: black;
+	font-family: Helvetica;
+}
+
 /*Responsive Layout*/
 
 
