@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+}
+
+.one{
+	background-color: red;
+	height: 200px;
+	width:33%;
+	float: right;
+}
+.two{
+	background-color: green;
+	height: 200px;
+	width: 33%;
+	float: right;
+}
+.three{
+	background-color: yellow;
+	height: 200px;
+	width:33%;
+	float: right;
+}
+
+p{
+	background-color: black;
+	margin-right: auto;
+	margin-top: auto;
+	width:10%;
+	float:right;
+}
